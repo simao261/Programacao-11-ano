@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\\u0154evisoes Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62138F7A-F0A1-4182-B7D3-3838387E8A13}|\u0154evisoes Teste.csproj|w:\\pograma\u00E7\u00E3o\\11 ano\\modulo 9\\\u0155evisoes teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62138F7A-F0A1-4182-B7D3-3838387E8A13}|\u0154evisoes Teste.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\\u0154evisoes Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\\u0154evisoes Teste\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:23:29.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões para o Teste.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões_para_o_Teste.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões para o Teste.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões para o Teste.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\bin\Debug\Revisões para o Teste.exe.config
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\bin\Debug\Revisões para o Teste.exe
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\bin\Debug\Revisões para o Teste.pdb
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões_para_o_Teste.Form1.resources
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões para o Teste.exe
+W:\Pogramação\11 ano\Modulo 8\Revisões para o Teste\obj\Debug\Revisões para o Teste.pdb

@@ -1,0 +1,7 @@
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\bin\Debug\ProvaAvaliacaoModulo9.exe.config
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\bin\Debug\ProvaAvaliacaoModulo9.exe
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\bin\Debug\ProvaAvaliacaoModulo9.pdb
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\obj\Debug\ProvaAvaliacaoModulo9.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\obj\Debug\ProvaAvaliacaoModulo9.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\obj\Debug\ProvaAvaliacaoModulo9.exe
+E:\Pogramação\11 ano\Modulo 9\ProvaAvaliacaoModulo9\obj\Debug\ProvaAvaliacaoModulo9.pdb

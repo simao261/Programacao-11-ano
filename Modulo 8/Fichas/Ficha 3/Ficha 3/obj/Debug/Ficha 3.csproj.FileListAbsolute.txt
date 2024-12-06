@@ -1,0 +1,20 @@
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe.config
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.pdb
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha_3.Form1.resources
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha_3.Properties.Resources.resources
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.GenerateResource.cache
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.exe
+E:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.pdb
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe.config
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.pdb
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha_3.Form1.resources
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha_3.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.exe
+W:\Pogramação\11 ano\Modulo 8\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.pdb

@@ -1,0 +1,10 @@
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe.config
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.pdb
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha_5.Form1.resources
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha_5.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.pdb

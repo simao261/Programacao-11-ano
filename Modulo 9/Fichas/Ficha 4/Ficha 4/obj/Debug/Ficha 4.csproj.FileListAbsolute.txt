@@ -1,0 +1,14 @@
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe.config
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.pdb
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.pdb
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe.config
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.pdb
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.exe
+E:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.pdb

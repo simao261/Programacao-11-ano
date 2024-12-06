@@ -1,0 +1,7 @@
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\bin\Debug\Ficha 6.exe.config
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\bin\Debug\Ficha 6.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\bin\Debug\Ficha 6.pdb
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\obj\Debug\Ficha 6.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\obj\Debug\Ficha 6.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\obj\Debug\Ficha 6.exe
+W:\Pogramação\11 ano\Modulo 9\Fichas\Ficha 6\Ficha 6\obj\Debug\Ficha 6.pdb

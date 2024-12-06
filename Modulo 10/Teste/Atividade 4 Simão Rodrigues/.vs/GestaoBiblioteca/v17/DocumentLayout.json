@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formacercaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formacercaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|e:\\pograma\u00E7\u00E3o\\11 ano\\modulo 8\\teste\\sim\u00E3o rodrigues 11psi2\\gestaobiblioteca\\gui\\formutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\gui\\formacercaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:gui\\formacercaaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormUtilizador.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizador.cs",
+              "RelativeDocumentMoniker": "GUI\\FormUtilizador.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizador.cs",
+              "RelativeToolTip": "GUI\\FormUtilizador.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:24:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUtilizador.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizador.cs",
+              "RelativeDocumentMoniker": "GUI\\FormUtilizador.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizador.cs [Design]",
+              "RelativeToolTip": "GUI\\FormUtilizador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:19:48.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUtilizadores.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizadores.cs",
+              "RelativeDocumentMoniker": "GUI\\FormUtilizadores.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizadores.cs",
+              "RelativeToolTip": "GUI\\FormUtilizadores.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:10:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUtilizadores.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizadores.cs",
+              "RelativeDocumentMoniker": "GUI\\FormUtilizadores.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormUtilizadores.cs [Design]",
+              "RelativeToolTip": "GUI\\FormUtilizadores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:50:30.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAcercaAplicacao.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAcercaAplicacao.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAcercaAplicacao.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAcercaAplicacao.cs",
+              "RelativeToolTip": "GUI\\FormAcercaAplicacao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:50:40.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAutenticacao.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAutenticacao.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAutenticacao.cs",
+              "RelativeToolTip": "GUI\\FormAutenticacao.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:50:36.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "GUI\\FormPrincipal.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormPrincipal.cs",
+              "RelativeToolTip": "GUI\\FormPrincipal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:50:32.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:06:09.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAcercaAplicacao.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAcercaAplicacao.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAcercaAplicacao.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAcercaAplicacao.cs [Design]",
+              "RelativeToolTip": "GUI\\FormAcercaAplicacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:17:46.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAutenticacao.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAutenticacao.cs",
+              "RelativeDocumentMoniker": "GUI\\FormAutenticacao.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormAutenticacao.cs [Design]",
+              "RelativeToolTip": "GUI\\FormAutenticacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:47:19.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "GUI\\FormPrincipal.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Teste\\Sim\u00E3o Rodrigues 11PSI2\\GestaoBiblioteca\\GUI\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "GUI\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:48:31.014Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

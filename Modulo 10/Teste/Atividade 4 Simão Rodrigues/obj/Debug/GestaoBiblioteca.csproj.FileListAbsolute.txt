@@ -1,0 +1,36 @@
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.pdb
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormAcercaAplicacao.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.FormPrincipal.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe.config
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\bin\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormAcercaAplicacao.resources
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormPrincipal.resources
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormUtilizadores.resources
+E:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca\obj\Debug\GestaoBiblioteca.GUI.FormUtilizador.resources

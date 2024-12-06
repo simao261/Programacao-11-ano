@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|e:\\pograma\u00E7\u00E3o\\11 ano\\modulo 10\\fichas\\ficha 1\\ficha 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\ponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|solutionrelative:ponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|solutionrelative:forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CA2FFA-ED85-4AAF-943A-8A39DBFEE32D}|Ficha 1.csproj|solutionrelative:quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:10:12.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Quadrado.cs",
+              "RelativeDocumentMoniker": "Quadrado.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Quadrado.cs",
+              "RelativeToolTip": "Quadrado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:08:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ponto.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Ponto.cs",
+              "RelativeDocumentMoniker": "Ponto.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Ponto.cs",
+              "RelativeToolTip": "Ponto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:07:33.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forma.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Forma.cs",
+              "RelativeDocumentMoniker": "Forma.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Forma.cs",
+              "RelativeToolTip": "Forma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:05:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Fichas\\Ficha 1\\Ficha 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAADAMjMzM3MnwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:04:30.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

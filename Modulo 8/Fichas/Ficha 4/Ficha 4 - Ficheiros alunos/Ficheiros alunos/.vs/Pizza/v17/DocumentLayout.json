@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|w:\\pograma\u00E7\u00E3o\\11 ano\\modulo 8\\fichas\\ficha 4\\ficha 4 - ficheiros alunos\\ficheiros alunos\\pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|solutionrelative:pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|solutionrelative:pizza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|solutionrelative:pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\pizza\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|solutionrelative:pizza\\encomenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\pizza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ECCEED-5049-4D96-AB57-16D564FD351E}|Pizza\\Pizza.csproj|solutionrelative:pizza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pizza||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.cs",
+              "RelativeDocumentMoniker": "Pizza\\Form1.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.cs*",
+              "RelativeToolTip": "Pizza\\Form1.cs*",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAwCMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:40:42.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.cs",
+              "RelativeDocumentMoniker": "Pizza\\Form1.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.cs [Design]",
+              "RelativeToolTip": "Pizza\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:30:06.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encomenda.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Encomenda.cs",
+              "RelativeDocumentMoniker": "Pizza\\Encomenda.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Encomenda.cs",
+              "RelativeToolTip": "Pizza\\Encomenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:15:37.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Pizza\\Form1.Designer.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Form1.Designer.cs",
+              "RelativeToolTip": "Pizza\\Form1.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:56:03.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Pizza.csproj",
+              "RelativeDocumentMoniker": "Pizza\\Pizza.csproj",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Pizza.csproj",
+              "RelativeToolTip": "Pizza\\Pizza.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T08:53:04.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Program.cs",
+              "RelativeDocumentMoniker": "Pizza\\Program.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 8\\Fichas\\Ficha 4\\Ficha 4 - Ficheiros alunos\\Ficheiros alunos\\Pizza\\Program.cs",
+              "RelativeToolTip": "Pizza\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:15:37.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

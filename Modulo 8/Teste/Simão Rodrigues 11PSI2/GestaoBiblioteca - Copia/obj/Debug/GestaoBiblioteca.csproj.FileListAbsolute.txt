@@ -1,0 +1,12 @@
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\bin\Debug\GestaoBiblioteca.exe.config
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\bin\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\bin\Debug\GestaoBiblioteca.pdb
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.GUI.FormAcercaAplicacao.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.FormPrincipal.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.exe
+W:\Pogramação\11 ano\Modulo 8\Teste\Simão Rodrigues 11PSI2\GestaoBiblioteca - Copia\obj\Debug\GestaoBiblioteca.pdb

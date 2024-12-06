@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\tipoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:tipoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\tipoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:tipoutilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\iten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:iten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|e:\\pograma\u00E7\u00E3o\\11 ano\\modulo 10\\teste 2\\atividade 4 sim\u00E3o rodrigues\\leitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:leitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF40D0B4-0747-4E93-A501-8D5BFDEEDC7D}|GestaoBiblioteca.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Leitor.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Leitor.cs",
+              "RelativeDocumentMoniker": "Leitor.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Leitor.cs",
+              "RelativeToolTip": "Leitor.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:33:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Iten.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Iten.cs",
+              "RelativeDocumentMoniker": "Iten.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Iten.cs",
+              "RelativeToolTip": "Iten.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:28:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Utilizador.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Utilizador.cs",
+              "RelativeToolTip": "Utilizador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:10:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AQIAABgAAAAgZmZmZiYiwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:58:27.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoUtilizador.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\TipoUtilizador.cs",
+              "RelativeDocumentMoniker": "TipoUtilizador.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\TipoUtilizador.cs",
+              "RelativeToolTip": "TipoUtilizador.cs",
+              "ViewState": "AQIAAAMAAACA/v////8QwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:56:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoItem.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\TipoItem.cs",
+              "RelativeDocumentMoniker": "TipoItem.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\TipoItem.cs",
+              "RelativeToolTip": "TipoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:53:30.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 10\\Teste 2\\Atividade 4 Sim\u00E3o Rodrigues\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAZ2ZmZmYkwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:06:09.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

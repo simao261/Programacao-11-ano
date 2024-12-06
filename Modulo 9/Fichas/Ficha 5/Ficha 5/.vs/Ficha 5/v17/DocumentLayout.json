@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F95A78F6-D0B4-47C6-BBF4-B5324686D360}|Ficha 5.csproj|e:\\pograma\u00E7\u00E3o\\11 ano\\modulo 9\\fichas\\ficha 5\\ficha 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F95A78F6-D0B4-47C6-BBF4-B5324686D360}|Ficha 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95A78F6-D0B4-47C6-BBF4-B5324686D360}|Ficha 5.csproj|E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95A78F6-D0B4-47C6-BBF4-B5324686D360}|Ficha 5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:46:09.365Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Pograma\u00E7\u00E3o\\11 ano\\Modulo 9\\Fichas\\Ficha 5\\Ficha 5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAIwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:50:19.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

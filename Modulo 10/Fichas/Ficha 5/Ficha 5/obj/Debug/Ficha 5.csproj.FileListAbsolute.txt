@@ -1,0 +1,14 @@
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe.config
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.pdb
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.exe
+E:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.pdb
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe.config
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.exe
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\bin\Debug\Ficha 5.pdb
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.exe
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 5\Ficha 5\obj\Debug\Ficha 5.pdb

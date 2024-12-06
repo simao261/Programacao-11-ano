@@ -1,0 +1,7 @@
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe.config
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.exe
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\bin\Debug\Ficha 3.pdb
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.exe
+W:\Pogramação\11 ano\Modulo 10\Fichas\Ficha 3\Ficha 3\obj\Debug\Ficha 3.pdb

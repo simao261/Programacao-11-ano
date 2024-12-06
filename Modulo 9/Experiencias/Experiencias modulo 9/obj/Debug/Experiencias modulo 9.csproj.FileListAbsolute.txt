@@ -1,0 +1,7 @@
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\bin\Debug\Experiencias modulo 9.exe.config
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\bin\Debug\Experiencias modulo 9.exe
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\bin\Debug\Experiencias modulo 9.pdb
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\obj\Debug\Experiencias modulo 9.csproj.AssemblyReference.cache
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\obj\Debug\Experiencias modulo 9.csproj.CoreCompileInputs.cache
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\obj\Debug\Experiencias modulo 9.exe
+W:\Pogramação\11 ano\Modulo 9\Experiencias\Experiencias modulo 9\obj\Debug\Experiencias modulo 9.pdb
