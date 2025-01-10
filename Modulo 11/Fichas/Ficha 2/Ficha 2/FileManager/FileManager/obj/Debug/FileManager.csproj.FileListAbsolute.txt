@@ -1,0 +1,10 @@
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\bin\Debug\FileManager.exe.config
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\bin\Debug\FileManager.exe
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\bin\Debug\FileManager.pdb
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.exe
+E:\Pogramação\11 ano\Modulo 11\Fichas\Ficha 2\Ficha 2\FileManager\FileManager\obj\Debug\FileManager.pdb
