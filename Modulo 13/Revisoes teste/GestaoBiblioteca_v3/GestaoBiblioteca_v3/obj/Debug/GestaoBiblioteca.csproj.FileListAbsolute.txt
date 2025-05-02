@@ -1,0 +1,28 @@
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormAcercaAplicacao.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormPrincipal.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormUtilizador.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormUtilizadores.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.exe.config
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 11\Teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.AssemblyReference.cache
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormAcercaAplicacao.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormAutenticacao.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormPrincipal.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormUtilizador.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.GUI.FormUtilizadores.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.Properties.Resources.resources
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.GenerateResource.cache
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.csproj.CoreCompileInputs.cache
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\obj\Debug\GestaoBiblioteca.pdb
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.exe.config
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.exe
+E:\Pogramação\11 ano\Modulo 13\Revisoes teste\GestaoBiblioteca_v3\GestaoBiblioteca_v3\bin\Debug\GestaoBiblioteca.pdb
